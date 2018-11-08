@@ -4,6 +4,7 @@
   "description": "NodeJs Docker compose example",
   "main": "server.js",
   "scripts": {
+    "start": "node server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -19,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/manjufy/docker/issues"
   },
-  "homepage": "https://github.com/manjufy/docker#readme"
+  "homepage": "https://github.com/manjufy/docker#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
 }
