@@ -2,7 +2,7 @@
 
 - Build the image: `docker build -t manju/node-web-app .`
 - List `docker images`
-- Run `docker run -p 49160:8080 -d manju/node-web-app`
+- Run `docker run -p 8080:8080 -d manju/node-web-app`
 
 ## Docker commands
 
