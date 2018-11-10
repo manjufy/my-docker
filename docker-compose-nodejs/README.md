@@ -20,8 +20,5 @@ docker system prune
 
 ```
 
-
-curl: (7) Failed to connect to localhost port 8000: Connection refused
-
 http://bitjudo.com/blog/2014/03/13/building-efficient-dockerfiles-node-dot-js/
 
