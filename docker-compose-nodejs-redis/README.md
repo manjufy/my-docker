@@ -35,5 +35,9 @@ https://docs.docker.com/compose/overview/
 
 https://medium.com/lucjuggery/docker-in-development-with-nodemon-d500366e74df
 
+https://medium.com/@gauravtoshniwal/using-tunneled-db-connections-from-docker-containers-bdc032e4b122
+
+http://anandmanisankar.com/posts/docker-container-nginx-node-redis-example/
+
 http://bitjudo.com/blog/2014/03/13/building-efficient-dockerfiles-node-dot-js/
 
