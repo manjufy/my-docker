@@ -2,7 +2,10 @@
 
 ## Docker Compose
 
+- `docker-compose up`
+- http://localhost:8080
 
+## Just to run plain docker image
 
 - Build the image: `docker build -t manju/node-web-app .`
 - List `docker images`
