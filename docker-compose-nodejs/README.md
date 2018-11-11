@@ -1,5 +1,9 @@
 # Nodejs Docker and Docker Compose
 
+## Docker Compose
+
+
+
 - Build the image: `docker build -t manju/node-web-app .`
 - List `docker images`
 - Run `docker run -p 8080:8080 -d manju/node-web-app`
@@ -19,6 +23,8 @@
 docker system prune
 
 ```
+
+https://docs.docker.com/compose/overview/
 
 http://bitjudo.com/blog/2014/03/13/building-efficient-dockerfiles-node-dot-js/
 
