@@ -41,3 +41,6 @@ http://anandmanisankar.com/posts/docker-container-nginx-node-redis-example/
 
 http://bitjudo.com/blog/2014/03/13/building-efficient-dockerfiles-node-dot-js/
 
+
+[Docker & Node.js Best Practices](https://github.com/nodejs/docker-node/blob/master/docs/BestPractices.md)
+
